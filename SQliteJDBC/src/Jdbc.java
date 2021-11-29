@@ -6,7 +6,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 
 
-public class JDBC {
+public class Jdbc {
 	
 	public static void createDatabase(String DBname) {
 
